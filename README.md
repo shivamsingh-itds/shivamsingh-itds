@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rye&size=22&duration=4000&pause=600&color=7C59F7&background=FFFFFF00&center=true&width=435&lines=Shivam+singh;Data+Science+Enthusiast;Aspiring+Data+Analyst;AI%2FML+Practitioner)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Luxurious+Roman&size=22&duration=4000&pause=600&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Shivam+singh;Data+Science+Enthusiast;Aspiring+Data+Analyst;AI%2FML+Practitioner)](https://git.io/typing-svg)
 <!--
 **shivamsingh-itds/shivamsingh-itds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
