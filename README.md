@@ -110,7 +110,6 @@ class ShivamSingh:
         # Career Goals
         self.goals = {
             "short_term": [
-                "Secure a Data Science or ML internship",
                 "Deliver multiple end-to-end ML projects",
                 "Strengthen applied problem-solving skills"
             ],
