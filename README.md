@@ -3,11 +3,11 @@
 </h1>
 ```python
 
-class ShivamSingh:
-    def __init__(self):
-        self.name = "Shivam Singh"
-        self.role = "Data Analyst | Data Science Practitioner"
-        self.location = "Mumbai, India"
+    class ShivamSingh:
+        def __init__(self):
+            self.name = "Shivam Singh"
+            self.role = "Data Analyst | Data Science Practitioner"
+            self.location = "Mumbai, India"
 
         self.analytics_skills = [
             "Data Cleaning & Preprocessing",
