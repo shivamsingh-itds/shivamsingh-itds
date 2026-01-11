@@ -1,7 +1,49 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Luxurious+Roman&size=22&duration=4000&pause=600&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Shivam+singh;Data+Science+Enthusiast;Aspiring+Data+Analyst;AI%2FML+Practitioner" alt="Typing SVG"/>
 </h1>
+```python
+class ShivamSingh:
+    def __init__(self):
+        self.name = "Shivam Singh"
+        self.role = "Data Analyst | Data Science Practitioner"
+        self.location = "Mumbai, India"
 
+        self.analytics_skills = [
+            "Data Cleaning & Preprocessing",
+            "Exploratory Data Analysis (EDA)",
+            "Statistical Analysis",
+            "Trend & Insight Identification",
+            "Business-Focused Reporting"
+        ]
+
+        self.tech_stack = {
+            "languages": ["Python", "SQL"],
+            "analysis": ["Pandas", "NumPy"],
+            "visualization": ["Matplotlib", "Seaborn"],
+            "ml_basics": [
+                "Logistic Regression",
+                "Decision Trees",
+                "Model Evaluation"
+            ],
+            "tools": ["Excel", "Git", "Jupyter Notebook"]
+        }
+
+        self.projects = [
+            "Customer Churn Analysis",
+            "Fraud & Risk Analysis",
+            "Healthcare Data Analysis"
+        ]
+
+        self.focus = (
+            "Analyzing data to generate actionable insights "
+            "while applying machine learning where it adds value"
+        )
+
+    def __str__(self):
+        return f"{self.name} | {self.role} | {self.location}"
+```
+
+<!--
 ```python
 class ShivamSingh:
     def __init__(self):
@@ -134,10 +176,7 @@ shivam = ShivamSingh()
 
 if __name__ == "__main__":
     print(shivam)
-```
 
-
-<!--
 <h1 align="center"> 
 <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
