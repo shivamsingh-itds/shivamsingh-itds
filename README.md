@@ -4,10 +4,10 @@
 
 ```python
 class ShivamSingh:
-        def __init__(self):
-            self.name = "Shivam Singh"
-            self.role = "Data Analyst | Data Science Practitioner"
-            self.location = "Mumbai, India"
+    def __init__(self):
+        self.name = "Shivam Singh"
+        self.role = "Data Analyst | Data Science Practitioner"
+        self.location = "Mumbai, India"
 
         self.analytics_skills = [
             "Data Cleaning & Preprocessing",
@@ -42,6 +42,12 @@ class ShivamSingh:
 
     def __str__(self):
         return f"{self.name} | {self.role} | {self.location}"
+
+
+
+if __name__ == "__main__":
+    shivam = ShivamSingh()
+    print(shivam)
 
 ```
     
