@@ -5,7 +5,7 @@
 <!-- ### About Me: -->
 <h4 align="center"> 
 I analyze data to uncover patterns, generate insights, and support business decisions.<br>Skilled in Python, SQL, EDA, and statistical analysis, with applied machine learning<br>where it adds real value.
-
+</h4>
 
 ---
 <!--
@@ -28,8 +28,23 @@ I analyze data to uncover patterns, generate insights, and support business deci
 <!-- [![](https://visitcount.itsvg.in/api?id=shivamsingh-itds&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+```python
+class ShivamSingh:
+    role = "Data Analyst | Data Science Practitioner"
+    skills = ["Python", "SQL", "EDA", "Statistics", "Data Visualization"]
+    tools = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Excel"]
+    projects = [
+        "Customer Churn Analysis",
+        "Fraud & Risk Analysis",
+        "Healthcare Data Analysis"
+    ]
+    focus = "Turning data into actionable insights"
 
+```
+
+<!--
 ```python
 class ShivamSingh:
     def __init__(self):
@@ -78,7 +93,7 @@ if __name__ == "__main__":
     print(shivam)
 
 ```
-    
+-->    
 
 
 <!--
