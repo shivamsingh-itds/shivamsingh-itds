@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Luxurious+Roman&size=22&duration=4000&pause=600&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Shivam+singh;Data+Science+Enthusiast;Aspiring+Data+Analyst;AI%2FML+Practitioner" alt="Typing SVG"/>
 </h1>
 
+<div align="center">
+<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6?raw=1"
+     width="720" , height="300"
+     alt="Profile animation" />
+</div>
+
+
+
+
+
 <!-- ### About Me: -->
 <h4 align="center"> 
 I analyze data to uncover patterns, generate insights, and support business decisions.<br>Skilled in Python, SQL, EDA, and statistical analysis, with applied machine learning<br>where it adds real value.
