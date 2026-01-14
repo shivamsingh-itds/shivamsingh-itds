@@ -3,10 +3,11 @@
 </h1>
 
 <!-- ### About Me: -->
-<h3 align="center"> 
+<h4 align="center"> 
 I analyze data to uncover patterns, generate insights, and support business decisions.<br>Skilled in Python, SQL, EDA, and statistical analysis, with applied machine learning<br>where it adds real value.
-</h3>
 
+
+---
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivamsingh-itds&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -14,7 +15,16 @@ I analyze data to uncover patterns, generate insights, and support business deci
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsingh-itds&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
 
----
+<h4 align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</h4>
+
 <!-- [![](https://visitcount.itsvg.in/api?id=shivamsingh-itds&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
