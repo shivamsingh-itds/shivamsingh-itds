@@ -2,9 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Luxurious+Roman&size=22&duration=4000&pause=600&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Shivam+singh;Data+Science+Enthusiast;Aspiring+Data+Analyst;AI%2FML+Practitioner" alt="Typing SVG"/>
 </h1>
 
-### About Me:
-
+<!-- ### About Me: -->
+<h3 align="center"> 
 I analyze data to uncover patterns, generate insights, and support business decisions.<br>Skilled in Python, SQL, EDA, and statistical analysis, with applied machine learning<br>where it adds real value.
+</h3>
+
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivamsingh-itds&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
