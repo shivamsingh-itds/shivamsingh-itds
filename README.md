@@ -78,7 +78,9 @@ I analyze data to uncover patterns, generate insights, and support business deci
 <!-- [![](https://visitcount.itsvg.in/api?id=shivamsingh-itds&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<h1 align="center"> 
+  <p>More About Me: </p>
+</h1>
 
 ```python
 
