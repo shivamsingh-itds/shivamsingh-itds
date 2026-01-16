@@ -81,17 +81,46 @@ I analyze data to uncover patterns, generate insights, and support business deci
 
 
 ```python
-class ShivamSingh:
-    role = "Data Analyst | Data Science Practitioner"
-    skills = ["Python", "SQL", "EDA", "Statistics", "Data Visualization"]
-    tools = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Excel"]
-    projects = [
-        "Customer Churn Analysis",
-        "Fraud & Risk Analysis",
-        "Healthcare Data Analysis"
-    ]
-    focus = "Turning data into actionable insights"
 
+class ShivamSingh:
+    def __init__(self):
+        self.name = "Shivam Singh"
+        self.title = "Data Science & ML Practitioner"
+        self.location = "Mumbai"
+        self.education = "BSc IT"
+        self.focus = "Applied Data Science & ML"
+        
+        self.summary = (
+            "Transforming raw data into insights through ML systems "
+            "with clear problem-to-solution mapping."
+        )
+        
+        self.tech_stack = {
+            "languages": ["Python", "SQL"],
+            "ml_libs": ["Scikit-learn", "Pandas", "NumPy"],
+            "viz": ["Matplotlib", "Seaborn"],
+            "ml_models": ["XGBoost", "Random Forest", "Logistic Regression"],
+            "tools": ["Git", "Docker", "Flask", "MySQL", "Jupyter"]
+        }
+        
+        self.projects = [
+            "Customer Churn Prediction",
+            "Fraud Detection", 
+            "Healthcare Analytics",
+            "Risk Prediction"
+        ]
+        
+        self.current_focus = [
+            "15 Days 15 ML Projects",
+            "Building modular ML pipelines",
+            "Improving evaluation practices"
+        ]
+
+    def __str__(self):
+        return f"{self.name} | {self.title} | {self.location}"
+
+# Instance
+shivam = ShivamSingh()
 ```
 
 <!--
