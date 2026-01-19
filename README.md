@@ -89,7 +89,7 @@ class ShivamSingh:
         self.name = "Shivam Singh"
         self.title = "Data Science & ML Practitioner"
         self.location = "Mumbai"
-        self.education = "BSc IT"
+        self.education = "Bachelor's Of Science (Information Technology)"
         self.focus = "Applied Data Science & ML"
         
         self.summary = (
