@@ -88,7 +88,7 @@ class ShivamSingh:
     def __init__(self):
         self.name = "Shivam Singh"
         self.title = "Data Science & ML Practitioner"
-        self.location = "Mumbai"
+        self.location = "Mumbai,India"
         self.education = "Bachelor's Of Science (Information Technology)"
         self.focus = "Applied Data Science & ML"
         
