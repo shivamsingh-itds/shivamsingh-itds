@@ -113,7 +113,6 @@ class ShivamSingh:
         ]
         
         self.current_focus = [
-            "15 Days 15 ML Projects",
             "Building modular ML pipelines",
             "Improving evaluation practices"
         ]
