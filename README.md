@@ -27,6 +27,7 @@ I analyze data to uncover patterns, generate insights, and support business deci
 
 <div align="center">
 
+  <!-- Row 1 -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" />
@@ -35,12 +36,13 @@ I analyze data to uncover patterns, generate insights, and support business deci
 
   <br><br>
 
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" /></a>
-  <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" /></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" /></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" /></a>
+  <!-- Row 2 -->
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
 
 </div>
 
@@ -53,7 +55,6 @@ I analyze data to uncover patterns, generate insights, and support business deci
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
 </p>
-
 <!--
 <div align="center">
   
