@@ -24,33 +24,30 @@ I analyze data to uncover patterns, generate insights, and support business deci
 ![](https://nirzak-streak-stats.vercel.app/?user=shivamsingh-itds&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsingh-itds&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
-<!-- Tech Stack -->
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
 
-<!-- Row 1 -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"/>
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50"/>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50"/>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50"/>
+  <!-- Row 1 -->
+  <div>
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
+  </div>
 
-<br><br>
+  <br>
 
-<!-- Row 2 -->
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/>
+  <!-- Row 2 -->
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
+  </div>
 
-</td>
-</tr>
-</table>
-<br>
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
