@@ -47,6 +47,7 @@ I analyze data to uncover patterns, generate insights, and support business deci
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
   </div>
 
+
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
