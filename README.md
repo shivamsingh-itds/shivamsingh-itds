@@ -24,28 +24,16 @@ I analyze data to uncover patterns, generate insights, and support business deci
 
 <div align="center">
 
-  ### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-  <!-- Row 1 -->
-  <p align="center">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
-  </p>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" /> <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" /> <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" />
 
-  <!-- Row 2 -->
-  <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" />&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" />
-  </p>
+<br/>
+
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" /> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" />
 
 </div>
+
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
