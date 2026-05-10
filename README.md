@@ -7,8 +7,6 @@
      width="650" , height="280"
      alt="Profile animation" />
 </div>
-
-
 <!-- ### About Me: -->
 <h4 align="center"> 
 I analyze data to uncover patterns, generate insights, and support business decisions.<br>Skilled in Python, SQL, EDA, and statistical analysis, with applied machine learning<br>where it adds real value.
