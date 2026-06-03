@@ -17,7 +17,6 @@ I analyze data to uncover patterns, generate insights, and support business deci
 ![](https://nirzak-streak-stats.vercel.app/?user=shivamsingh-itds&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsingh-itds&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
-
 <div align="center">
   <div style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:nowrap;">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" />
