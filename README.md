@@ -67,40 +67,32 @@ I analyze data to uncover patterns, generate insights, and support business deci
 class ShivamSingh:
     def __init__(self):
         self.name = "Shivam Singh"
-        self.title = "Data Science & ML Practitioner"
-        self.location = "Mumbai,India"
-        self.education = "Bachelor's Of Science (Information Technology)"
-        self.focus = "Applied Data Science & ML"
-        
-        self.summary = (
-            "Transforming raw data into insights through ML systems "
-            "with clear problem-to-solution mapping."
+        self.title = "AI Engineer"
+        self.location = "Mumbai, India"
+
+        self.focus = (
+            "Building AI applications with LLMs, AI Agents, "
+            "RAG, Computer Vision, and Machine Learning."
         )
-        
+
         self.tech_stack = {
             "languages": ["Python", "SQL"],
-            "ml_libs": ["Scikit-learn", "Pandas", "NumPy"],
-            "viz": ["Matplotlib", "Seaborn"],
-            "ml_models": ["XGBoost", "Random Forest", "Logistic Regression"],
-            "tools": ["Git", "Docker", "Flask", "MySQL", "Jupyter"]
+            "ai": ["LangChain", "LangGraph", "Hugging Face", "PyTorch"],
+            "frameworks": ["FastAPI", "Streamlit", "Flask"],
+            "tools": ["Git", "Docker"]
         }
-        
-        self.projects = [
-            "Customer Churn Prediction",
-            "Fraud Detection", 
-            "Healthcare Analytics",
-            "Risk Prediction"
-        ]
-        
-        self.current_focus = [
-            "Building modular ML pipelines",
-            "Improving evaluation practices"
+
+        self.currently_learning = [
+            "AI Agents",
+            "RAG",
+            "LLM Fine-Tuning",
+            "Vision Language Models"
         ]
 
     def __str__(self):
         return f"{self.name} | {self.title} | {self.location}"
 
-# Instance
+
 shivam = ShivamSingh()
 ```
 
